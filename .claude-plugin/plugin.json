@@ -1,0 +1,8 @@
+{
+  "name": "sow-garden",
+  "version": "1.0.0",
+  "description": "SOW pipeline plugin — draft, scope, scan, and report on Statements of Work from one place.",
+  "author": {
+    "name": "{{YOUR_NAME}}"
+  }
+}
