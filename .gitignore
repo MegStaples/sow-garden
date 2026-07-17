@@ -1,0 +1,7 @@
+# Don't commit personal config if you create one
+config.local.json
+.env
+
+# OS
+.DS_Store
+Thumbs.db
